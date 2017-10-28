@@ -1,0 +1,31 @@
+.block {
+  background-color:black;
+  opacity:.8;
+  padding:40px;
+  width: 800px;
+  height: 400px;
+  margin-right:auto;
+  margin-left:auto;
+  border-radius:405px;
+}
+body{
+  background-color:blue;
+}
+.backGroundPage{
+  
+}
+
+.imageProperties{
+  height:100px;
+  width: 100px;
+}
+
+.smallText{
+  font-size: 1.8em;  
+}
+
+p{font-family:Carter-One;color:lightblue; Monospace; font-size: 4.0em; display:inline;}
+
+
+
+input:focus {outline:0;}
